@@ -1,0 +1,231 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+#header{
+    
+}
+
+#content{
+    padding-left: 4%;
+    float: left;
+}
+
+#content2{
+}
+
+.address p{
+    margin-top: 1%;
+    margin-left: 1%;
+    color: gray;
+    font-family: monospace;
+    font-size: 15px;
+}
+
+.contact ul{
+    margin-left: 1%;
+    list-style: none;
+    font-size: 15px;
+}
+
+.one{
+    font-family: monospace;
+    color: deeppink;
+}
+
+.contact ul li a{
+    font-family: monospace;
+    color: dimgray;
+}
+
+.contact ul li a:hover{
+    color: black;
+}
+
+.name{
+    margin-left: 1%;
+    margin-top: 2%;
+    font-size: 20px;
+    border-bottom: 5px solid black;
+    margin-right: 7%;
+    padding-left: 1%;
+    word-spacing: 10px;
+}
+
+.hard-skills h3{
+    margin-left: 1%;
+    margin-top: 4%;
+    font-family: sans-serifs;
+    color: deeppink;
+}
+
+.skills p{
+    margin-left: 1%;
+    margin-top: 2%;
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.hard-skills{
+    /* float: left; */
+}
+
+.fs img{
+    width: 120px;
+    height: 120px;
+    border-radius: 25px;
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+.soft-skills{
+    text-align: center;
+    margin-right: 1%;
+}
+
+.soft-skills h3{
+    margin-left: 1%;
+    margin-top: 2%;
+    font-family: sans-serifs;
+    color: deeppink;
+}
+
+.soft-skills ul{
+    list-style: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 1%;
+    
+}
+
+.soft-skills ul li{
+    line-height: 25px;
+    color: rgb(43, 42, 42);
+    
+}
+
+.experience h3{
+    margin-left: 1%;
+    margin-top: 2%;
+    font-family: sans-serifs;
+    color: deeppink;
+}
+
+.experience{
+    margin-left: 1%;
+    text-align: center;
+    word-spacing: 3px;
+    margin-right: 1%;
+}
+
+.experience ul{
+    list-style: none;
+
+}
+
+.experience ul li{
+    font-family: monospace;
+    line-height: 20px;
+}
+
+.experience p strong{
+    font-family: monospace;
+    font-size: 15px;
+}
+
+.experience p{
+    margin-top: 1%;
+    justify-content: center;
+    font-family: monospace;
+}
+
+.experience em{
+    color:  darkslategrey;
+}
+
+.education h3{
+    margin-left: 1%;
+    font-family: sans-serifs;
+    color: deeppink;
+}
+
+.education{
+    margin-top: 2%;
+    margin-left: 1%;
+    text-align: center;
+    word-spacing: 3px;
+    margin-right: 1%;
+}
+
+.education p strong{
+    font-family: monospace;
+    font-size: 15px;
+}
+
+.education p{
+    margin-top: 1%;
+    justify-content: center;
+    font-family: monospace;
+    text-align: center;
+}
+
+.education em{
+    color:  darkslategrey;
+}
+
+.education b{
+    text-transform: uppercase;
+}
+
+
+#footer {
+    margin-top: 5%;
+    margin-left: 1%;
+}
+
+.contacts p{
+    border-top: 4px solid black;
+    margin-top: 2%;
+    font-family: sans-serif;
+    font-style: italic;
+    padding-top: 1%;
+    text-align: left;
+}
+
+
+#footer button img{
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+}
+
+#footer button{
+    margin-top: 1%;
+}
+
+.des{
+    margin-top: 2%;
+}
+
+.des p{
+    text-align: center;
+    font-family: monospace;
+    margin-bottom: 1%;
+}
+
+.power a img{
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    margin-top: 1%;
+}
+
+.power{
+    margin-top: 1%;
+}
+
+.power p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+}
