@@ -13,7 +13,7 @@ nav{
 }
 
 body{
-    background-image: url(/img/liness.png);
+    background-image:linear-gradient(rgba(83, 83, 83, 0.5), rgba(129, 124, 124, 0.8)), url(/img/liness.png);
     background-size: cover;
 
 }
@@ -177,9 +177,9 @@ body{
 .about-container p{
     width: 300px;
     margin: 10px auto;
-/*     text-align: justify; */
+    /* text-align: justify; */
     color: #fff;
-/*     word-spacing: 1px; */
+    /* word-spacing: 1px; */
     font-size: 20px;
     font-family: monospace;
 }
@@ -218,12 +218,13 @@ body{
     
 }
 
-#content4 .experience{
+#content4 .experience p{
     width: 320px;
     height: 210px;
-    background-color: lightgrey;
+    background-color: rgb(247, 244, 244);
     margin: 5px auto;
     border-radius: 20px;
+    padding-top: 20px;
 }
 
 .experience h3{
