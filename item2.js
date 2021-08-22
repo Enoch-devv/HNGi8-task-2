@@ -9,4 +9,4 @@ const navSlide =()=>{
 }
 navSlide();
 
-window.alert('Enoch Akpan')
+// window.alert('Enoch Akpan')
