@@ -164,6 +164,8 @@ body{
     letter-spacing: 12px;
     margin-top: 1%;
     font-size: 29px;
+        color: #fff;
+
 }
 
 #content2 .about-container{
@@ -234,6 +236,8 @@ body{
     margin-top: 1%;
     font-size: 20px;
     margin-bottom: 1%;
+        color: #fff;
+
 }
 
 .experience p{
@@ -257,6 +261,8 @@ body{
     margin-top: 2%;
     font-size: 20px;
     margin-bottom: 1%;
+        color: #fff;
+
 }
 
 .proj-container{
